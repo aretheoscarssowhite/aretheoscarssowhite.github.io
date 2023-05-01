@@ -6,7 +6,7 @@ description: A website for researching the racial and cultural diversity of Osca
 site-image: /WhatATheme/assets/images/meta.jpg
 site-keywords: 'Oscars, Racial, Diversity'
 favicon-url: null
-heroimage: /Users/gy/HUMA5630.github.io/yzq\ winner-image.jpeg
+heroimage: '/assert/yzq winner-image.jpeg'
 email: ygaocf@connect.ust.hk
 facebook_username: Yue Luna
 instagram_username: patronus0420

@@ -12,7 +12,7 @@ In lesson 1, we learn the basics of GitHub and what System Design is all about.
 We learn what Git add, Git commit, Git push, Git rm, and Git branch do and how to execute them. 
 
 We also learn the difference between Git and GitHub. 
-<img src="{{ '/assets/img/git.png' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/world-map-image.jpeg' | prepend: site.baseurl }}" id="about-img" width="799" height="401">
 
 ### Blog 2
 In Blog 2, I will be going over the key takeaways from lesson 2. 

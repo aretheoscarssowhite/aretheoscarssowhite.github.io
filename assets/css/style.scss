@@ -47,7 +47,7 @@ a.navbar-item.is-active {
 
     &::before {
         filter: blur(0.15rem);
-        background-image: url({{site.heroimage}});
+        background-image: url('/Users/gy/HUMA5630.github.io/yzq\\ winner-image.jpeg');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -170,6 +170,20 @@ a.navbar-item.is-active {
             }
         }
     }
+}
+div[style*="width: 100%; overflow-x: hidden;"] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+div[style*="width: 100%; overflow-x: hidden;"] > * {
+  width: 80%;
+  max-width: 800px;
+  height: auto;
+  margin: 20px 0;
 }
 
 #search {

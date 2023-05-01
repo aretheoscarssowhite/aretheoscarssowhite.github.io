@@ -1,30 +1,26 @@
 markdown: kramdown
 url: ''
 baseurl: null
-title: Kevin Allegretti
-description: Project 1
+title: Are the Oscars Still So White?
+description: A website for researching the racial and cultural diversity of Oscar winners
 site-image: /WhatATheme/assets/images/meta.jpg
-site-keywords: 'Site, Template, Theme'
+site-keywords: 'Oscars, Racial, Diversity'
 favicon-url: null
-heroimage: http://localhost:4000/IMG-5480.jpg
-email: Kevin.Allegretti1@marist.edu
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: KevinAllegretti
-linkedin_username: thedevslot
-github_username: thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+heroimage: /Users/gy/HUMA5630.github.io/yzq\ winner-image.jpeg
+email: ygaocf@connect.ust.hk
+facebook_username: Yue Luna
+instagram_username: patronus0420
+linkedin_username: Gao Yue
+github_username: gy5630
+youtube_channel_id: UCdyhDK-L2K2Zl672EFtz_bw
 reddit_username: /
 behance_username: /
 dribbble_username: /
 spotify_username: /
-google-analytics: UA-163806439-1
-disqus-shortname: thedevslot
-author-name: TheDevsLot
-author-image: 'http://localhost:4000/IMG-5480.jpg'
+author-name: HUMA5630G7
+author-image: '/Users/gy/HUMA5630.github.io/yzq\ winner-image.jpeg'
 author-about: >-
-  I am a student at Marist College and I am 21 years old. I enjoy playing golf,
-  music producing, and coding.
+  We are the seventh group in the HUMA 5630 programme at the Hong Kong University of Science and Technology and we are dedicated to the study of the racial and cultural diversity of Oscar winners.
 author-url: 'https://github.com/KevinAllegretti'
 sass:
   sass_dir: _sass

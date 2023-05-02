@@ -3,7 +3,7 @@ url: ''
 baseurl: null
 title: Are the Oscars Still So White?
 description: A website for researching the racial and cultural diversity of Oscar winners
-site-image: https://raw.githubusercontent.com/gy5630/HUMA5630.github.io/master/assets/images/Oscars.jpeg.webp
+site-image: https://raw.githubusercontent.com/gy5630/HUMA5630.github.io/master/assets/images/oscars.jpeg
 site-keywords: 'Oscars, Racial, Diversity'
 favicon-url: null
 heroimage: https://raw.githubusercontent.com/gy5630/HUMA5630.github.io/master/assets/images/G7-image.jpeg
@@ -24,7 +24,7 @@ author-name: HUMA5630G7
 author-image: https://raw.githubusercontent.com/gy5630/HUMA5630.github.io/master/assets/images/G7-image.jpeg
 author-about: >-
     We are the seventh group in the HUMA 5630 programme at the Hong Kong University of Science and Technology and we are dedicated to the study of the racial and cultural diversity of Oscar winners.
-author-url: 'https://github.com/KevinAllegretti'
+author-url: 'https://github.com/gy5630'
 sass:
   sass_dir: _sass
   style: compressed
